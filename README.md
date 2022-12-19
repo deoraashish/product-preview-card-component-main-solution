@@ -21,8 +21,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 **Links**
 
-- Solution URL: [deoraashish/fem-qr-code-challenge-solution-ashish at main (github.com)](https://github.com/deoraashish/product-preview-card-component-main-solution/tree/main) 
-- Live Site URL: [Frontend Mentor | QR code component (qr-code-component-main-solution.vercel.app)](https://qr-code-component-main-solution.vercel.app/)
+- Solution URL: [deoraashish/product-preview-card-component-main-solution at main (github.com)](https://github.com/deoraashish/product-preview-card-component-main-solution/tree/main) 
+- Live Site URL: [Frontend Mentor | Product Preview Card Component (https://product-preview-card-component-main-solution.vercel.app/)](https://product-preview-card-component-main-solution.vercel.app//)
 
 **My process**
 
